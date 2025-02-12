@@ -1,4 +1,4 @@
-# ⚔️ **Forged in Peril**
+# ⚔️ **Anvil & Ashes**
 
 > *"In a world teetering on the edge of chaos, only the bravest adventurers wielding masterfully forged weapons can restore balance. Will you rise to the challenge?"*
 
@@ -6,7 +6,7 @@
 
 ## 📖 **Introduction**
 
-**Forged in Peril** is a tactical adventure game blending strategic decision-making, character progression, and intense battles. Craft powerful weapons, select unique materials, assemble a team of adventurers, and navigate through a perilous map filled with challenges. Every decision shapes your fate!
+**Anvil & Ashes** is a tactical adventure game blending strategic decision-making, character progression, and intense battles. Craft powerful weapons, select unique materials, assemble a team of adventurers, and navigate through a perilous map filled with challenges. Every decision shapes your fate!
 
 ---
 
@@ -159,4 +159,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-**Thank you for playing *Forged in Peril*! May your swords stay sharp and your adventurers victorious! ⚔️🔥**
+**Thank you for playing *Anvil & Ashes*! May your swords stay sharp and your adventurers victorious! ⚔️🔥**
